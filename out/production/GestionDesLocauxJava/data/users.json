@@ -1,0 +1,26 @@
+[
+    {
+        "nci": "1102201712345",
+        "nomComplet": "dansomon esse1 ",
+        "tel": "+21178488",
+        "adresse": "dakar1",
+        "email": "essedansomon@gmail.com1",
+        "role": "client"
+    },
+    {
+        "nci": "2102201712345",
+        "nomComplet": "dansomon esse2 ",
+        "tel": "+21178488",
+        "adresse": "dakar2",
+        "email": "essedansomon@gmail.com2",
+        "role": "admin"
+    },
+    {
+        "nci": "1102201412345",
+        "nomComplet": "bailla wane",
+        "tel": "+221778627841",
+        "adresse": "Dakar, senegale",
+        "email": "douvewane85@gmail.com",
+        "role": "client"
+    }
+]
