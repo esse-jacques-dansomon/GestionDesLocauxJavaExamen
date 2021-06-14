@@ -1,0 +1,25 @@
+[
+    {
+        "role": "client",
+        "nci": "1102201712345",
+        "adresse": "dakar1",
+        "nomComplet": "dansomon esse1 ",
+        "tel": "+21178488",
+        "email": "essedansomon@gmail.com1"
+    },
+    {
+        "role": "admin",
+        "nci": "2102201712345",
+        "adresse": "dakar2",
+        "nomComplet": "dansomon esse2 ",
+        "tel": "+21178488",
+        "email": "essedansomon@gmail.com2"
+    },
+    {
+        "nci": "1103201512345",
+        "adresse": "dakar senegal",
+        "nomComplet": "dnasomon esse jacques ",
+        "tel": "+221778628471",
+        "email": "essedansomon@gmail.com"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+
+        "ref": "ref0001",
+        "localisation": "dakar",
+        "prix": 4505015,
+        "taux" :4545,
+        "pieces": 4,
+        "type" : "Appartement",
+
+        "chambres": [
+            {
+                "ref": "ref001",
+                "prix": 1000,
+                "type" : "Chambre",
+                "dimensions": {"logueur":10, "largeur": 10}
+            },
+            {
+                "ref": "ref001",
+                "prix": 1000,
+                "type" : "Chambre",
+                "dimensions": {"logueur":10, "largeur": 10}
+            },
+            {
+                "ref": "ref001",
+                "prix": 1000,
+                "type" : "Chambre",
+                "dimensions": {"logueur":10, "largeur": 10}
+            },
+            {
+                "ref": "ref001",
+                "prix": 1000,
+                "type" : "Chambre",
+                "dimensions": {"logueur":10, "largeur": 10}
+            }
+        ]
+    },
+    {
+        "ref": "ref0002",
+        "localisation": "dakar",
+        "prix": 4505015,
+        "taux" : 40,
+        "type" : "Chambre",
+        "dimensions": {"logueur":10, "largeur": 10}
+    }
+]
